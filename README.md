@@ -1,4 +1,4 @@
-Olá! Me chamo Rafael Ribeiro, sou desenvolverdor nas liguagens Java e Kotlin, atualmente estou estudando os Frameworks Android e Spring.
+Olá! Me chamo Rafael Ribeiro, sou engenheiro de software na Evoluum, desenvolvo aplicativos em flutter e micro serviços em Java.
 <div>
   <a href="https://github.com/RibeiroRibas">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ribeiroribas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
